@@ -1,0 +1,5 @@
+"Phishing is a fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity."
+"IP spoofing is a method of fraudulent access where attackers impersonate IP addresses."
+"Credit card fraud involves unauthorized use of a credit or debit card."
+"Transaction from a suspicious IP address flagged by fraud detection API."
+"Large withdrawals followed by immediate transfer to multiple accounts is a red flag."
