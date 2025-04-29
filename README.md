@@ -32,7 +32,7 @@ FraudSleuth operates through a series of interconnected steps:
 
 ## Architecture
 
-![FraudSleuth Architecture](docs/ArchDiagram\_ MermaidChart.png)
+![FraudSleuth Architecture](./docs/ArchDiagram_MermaidChart.png)
 
 ## Tools Used
 
